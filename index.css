@@ -24,10 +24,18 @@ image {
 .card {
   border: 2px solid;
   padding: 5px;
-  margin-top: 2em;
+  margin-top: 1em;
 }
 
 h3 {
   /* border: 2px solid red; */
   text-align:center;
+}
+
+.dark-green-theme {
+  background-color: #013220; /* dark green background */
+  color: white; /* white text color */
+  padding: 20px; /* some padding */
+  text-align: center; /* center the text */
+  height: 20px;
 }
