@@ -5,4 +5,27 @@ body {
     hsl(120, 96%, 67%)
   );
   height: 100vh;
+ }
+image {
+  width: 100px;
+}
+.img {
+  width: 100%;
+}
+.card-text {
+  border:0.5px solid;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+}
+.card {
+  border: 2px solid;
+  padding: 5px;
+  margin-top: 2em;
+}
+
+h3 {
+  /* border: 2px solid red; */
+  text-align:center;
 }
