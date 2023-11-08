@@ -1,0 +1,8 @@
+body {
+  background-image: -webkit-linear-gradient(
+    40deg,
+    hsl(265, 96%, 67%),
+    hsl(120, 96%, 67%)
+  );
+  height: 100vh;
+}
