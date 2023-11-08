@@ -1,9 +1,9 @@
 body {
   background-image: -webkit-linear-gradient(
     40deg,
-    hsl(265, 96%, 67%),
-    hsl(120, 96%, 67%)
-  );
+    hsl(270, 50%, 30%),
+    hsl(120, 50%, 30%)
+    );
   height: 100vh;
  }
 image {
@@ -18,6 +18,8 @@ image {
   flex-direction:column;
   justify-content:center;
   align-items:center;
+  background-color: rgba(173, 216, 230, 0.3); /* light blue with 30% opacity */
+
 }
 .card {
   border: 2px solid;
